@@ -23,7 +23,7 @@ Evaluation tools for pose estimation and tracking of model organisms such as **C
 
 Set the `sigma` values according to the target species:
 
-- **C. elegans (worm)**:
+- **C. elegans**:
   ```python
   [0.25, 0.75, 0.75, 0.75, 0.25]
   ```
@@ -33,7 +33,7 @@ Set the `sigma` values according to the target species:
   [1.25, 1.25, 1.25, 1.55, 1.55, 1.35, 1.35, 1.35, 1.35, 1.25]
   ```
 
-- **Drosophila (fruit fly)**:
+- **Drosophila**:
   ```python
   [0.35, 0.55, 0.55, 0.75, 0.75, 0.55, 0.62, 0.62, 0.55, 0.62, 0.62, 0.55,
    0.62, 0.62, 0.55, 0.62, 0.62, 0.55, 0.62, 0.62, 0.55, 0.62, 0.62, 0.55,
